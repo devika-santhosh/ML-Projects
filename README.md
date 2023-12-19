@@ -8,7 +8,7 @@ In this repository, I've documented and shared some of my most interesting and i
 ## Project Highlights
 Here are some of the highlights of what you'll discover in this repository:
 
-- **Kaggle Competitions:** I've participated in several Kaggle competitions, striving to push the boundaries of machine learning and data analysis. You'll find detailed notebooks, code, and insights from these competitions.
+- **Kaggle Competitions and Projects:** I've participated in Kaggle competitions and done several projects, striving to push the boundaries of machine learning and data analysis. You'll find detailed notebooks, code, and insights from them.
 
 - **Data Analysis:** I believe that understanding the data is the first step to building successful models. You'll find in-depth exploratory data analysis (EDA) reports and visualizations for various datasets.
 
